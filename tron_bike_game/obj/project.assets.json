@@ -125,11 +125,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ltsto\\Desktop\\Snake Game\\Unit05.csproj",
+      "projectUniqueName": "C:\\Users\\ltsto\\Desktop\\MissingProjects\\ClassesProjects\\tron_bike_game\\Unit05.csproj",
       "projectName": "Unit05",
-      "projectPath": "C:\\Users\\ltsto\\Desktop\\Snake Game\\Unit05.csproj",
+      "projectPath": "C:\\Users\\ltsto\\Desktop\\MissingProjects\\ClassesProjects\\tron_bike_game\\Unit05.csproj",
       "packagesPath": "C:\\Users\\ltsto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ltsto\\Desktop\\Snake Game\\obj\\",
+      "outputPath": "C:\\Users\\ltsto\\Desktop\\MissingProjects\\ClassesProjects\\tron_bike_game\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ltsto\\AppData\\Roaming\\NuGet\\NuGet.Config"

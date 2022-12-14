@@ -1,0 +1,15 @@
+C:\Users\ltsto\Desktop\MissingProjects\ClassesProjects\tic_tac_toe_game\obj\Debug\net6.0\tic_tac_toe_game.csproj.AssemblyReference.cache
+C:\Users\ltsto\Desktop\MissingProjects\ClassesProjects\tic_tac_toe_game\obj\Debug\net6.0\tic_tac_toe_game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ltsto\Desktop\MissingProjects\ClassesProjects\tic_tac_toe_game\obj\Debug\net6.0\tic_tac_toe_game.AssemblyInfoInputs.cache
+C:\Users\ltsto\Desktop\MissingProjects\ClassesProjects\tic_tac_toe_game\obj\Debug\net6.0\tic_tac_toe_game.AssemblyInfo.cs
+C:\Users\ltsto\Desktop\MissingProjects\ClassesProjects\tic_tac_toe_game\obj\Debug\net6.0\tic_tac_toe_game.csproj.CoreCompileInputs.cache
+C:\Users\ltsto\Desktop\MissingProjects\ClassesProjects\tic_tac_toe_game\bin\Debug\net6.0\tic_tac_toe_game.exe
+C:\Users\ltsto\Desktop\MissingProjects\ClassesProjects\tic_tac_toe_game\bin\Debug\net6.0\tic_tac_toe_game.deps.json
+C:\Users\ltsto\Desktop\MissingProjects\ClassesProjects\tic_tac_toe_game\bin\Debug\net6.0\tic_tac_toe_game.runtimeconfig.json
+C:\Users\ltsto\Desktop\MissingProjects\ClassesProjects\tic_tac_toe_game\bin\Debug\net6.0\tic_tac_toe_game.dll
+C:\Users\ltsto\Desktop\MissingProjects\ClassesProjects\tic_tac_toe_game\bin\Debug\net6.0\tic_tac_toe_game.pdb
+C:\Users\ltsto\Desktop\MissingProjects\ClassesProjects\tic_tac_toe_game\obj\Debug\net6.0\tic_tac_toe_game.dll
+C:\Users\ltsto\Desktop\MissingProjects\ClassesProjects\tic_tac_toe_game\obj\Debug\net6.0\refint\tic_tac_toe_game.dll
+C:\Users\ltsto\Desktop\MissingProjects\ClassesProjects\tic_tac_toe_game\obj\Debug\net6.0\tic_tac_toe_game.pdb
+C:\Users\ltsto\Desktop\MissingProjects\ClassesProjects\tic_tac_toe_game\obj\Debug\net6.0\tic_tac_toe_game.genruntimeconfig.cache
+C:\Users\ltsto\Desktop\MissingProjects\ClassesProjects\tic_tac_toe_game\obj\Debug\net6.0\ref\tic_tac_toe_game.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ltsto\\Desktop\\MissingProjects\\ClassesProjects\\tron_bike_game\\Unit05.csproj": {}
+    "C:\\Users\\ltsto\\Desktop\\MissingProjects\\ClassesProjects\\tic_tac_toe_game\\tic_tac_toe_game.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ltsto\\Desktop\\MissingProjects\\ClassesProjects\\tron_bike_game\\Unit05.csproj": {
+    "C:\\Users\\ltsto\\Desktop\\MissingProjects\\ClassesProjects\\tic_tac_toe_game\\tic_tac_toe_game.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ltsto\\Desktop\\MissingProjects\\ClassesProjects\\tron_bike_game\\Unit05.csproj",
-        "projectName": "Unit05",
-        "projectPath": "C:\\Users\\ltsto\\Desktop\\MissingProjects\\ClassesProjects\\tron_bike_game\\Unit05.csproj",
+        "projectUniqueName": "C:\\Users\\ltsto\\Desktop\\MissingProjects\\ClassesProjects\\tic_tac_toe_game\\tic_tac_toe_game.csproj",
+        "projectName": "tic_tac_toe_game",
+        "projectPath": "C:\\Users\\ltsto\\Desktop\\MissingProjects\\ClassesProjects\\tic_tac_toe_game\\tic_tac_toe_game.csproj",
         "packagesPath": "C:\\Users\\ltsto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ltsto\\Desktop\\MissingProjects\\ClassesProjects\\tron_bike_game\\obj\\",
+        "outputPath": "C:\\Users\\ltsto\\Desktop\\MissingProjects\\ClassesProjects\\tic_tac_toe_game\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ltsto\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,12 +37,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "raylib-cs": {
-              "target": "Package",
-              "version": "[3.7.0.1, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
